@@ -1,0 +1,15 @@
+THIS SCRIPT WAS WRITTEN BY CRANKLIN
+http://www.cranklin.com
+
+USAGE:
+cockblock  
+    lists blocked IP addresses
+
+cockblock unblock [IP address]
+    unblocks IP address and removes it from block list
+
+cockblock [IP address]
+    blocks IP address and adds it to block list
+
+cockblock forceadd [IP address]
+    adds IP address to block list
